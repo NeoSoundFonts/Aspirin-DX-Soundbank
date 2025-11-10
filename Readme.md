@@ -22,7 +22,7 @@ Downloads:
 
 ---
 
-Compiled from:
+Samples compiled from:
 
 - [VCSL](https://versilian-studios.com/vcsl/) (Creative Commons 0 1.0)
 - [VSCO-2: Community Edition](https://versilian-studios.com/vsco-community/) (Creative Commons 0 1.0)
@@ -38,3 +38,9 @@ Compiled from:
 - [Anthousai Bottle Blow](https://freesound.org/people/Anthousai/sounds/447748/), recorded by using Tascam DR-40 (Creative Commons 0 1.0)
 - Mrforfs Fretless Bass, recorded directly without FX (Creative Commons 0 1.0)
 - Some Yingchun Soul Resampled from other synthesizers and exported from LMMS (e.g. Dexed, Surge, ZynAddSubFX; Licensed under Creative Commons 0 1.0)
+
+Wavetable used:
+
+- Yingchun Soul (Creative Commons 0 1.0)
+- [AKWF Free Wavetables](https://www.adventurekid.se/akrt/waveforms/adventure-kid-waveforms/) (Creative Commons 0 1.0)
+- FreePats (Single Cycle Conversion)
