@@ -22,25 +22,4 @@ Downloads:
 
 ---
 
-Samples compiled from:
-
-- [VCSL](https://versilian-studios.com/vcsl/) (Creative Commons 0 1.0)
-- [VSCO-2: Community Edition](https://versilian-studios.com/vsco-community/) (Creative Commons 0 1.0)
-- [University of Iowa](https://theremin.music.uiowa.edu/) (Freely available, without restrictions)
-- NeoSF2 (Creative Commons 0 1.0)
-- [FreePats](https://freepats.zenvoid.org/) (Creative Commons 0 1.0)
-- PattingTheStar (Creative Commons 0 1.0)
-- [Karoryfer](https://karoryfer-samples.myshopify.com/pages/free-samples) (Creative Commons 0 1.0)
-- Stamperadam (Creative Commons 0 1.0)
-- Classic Station (Creative Commons 0 1.0)
-- [Discord SFZ GM Bank](https://github.com/sfzinstruments/Discord-SFZ-GM-Bank) (Selecting Creative Commons 0 1.0 licensed samples)
-- [Baujahr66 Music Box](https://freesound.org/people/baujahr66/packs/9736/), recorded by using Zoom H2 (Creative Commons 0 1.0)
-- [Anthousai Bottle Blow](https://freesound.org/people/Anthousai/sounds/447748/), recorded by using Tascam DR-40 (Creative Commons 0 1.0)
-- Mrforfs Fretless Bass, recorded directly without FX (Creative Commons 0 1.0)
-- Some Yingchun Soul Resampled from other synthesizers and exported from LMMS (e.g. Dexed, Surge, ZynAddSubFX; Licensed under Creative Commons 0 1.0)
-
-Wavetable used:
-
-- Yingchun Soul (Creative Commons 0 1.0)
-- [AKWF Free Wavetables](https://www.adventurekid.se/akrt/waveforms/adventure-kid-waveforms/) (Creative Commons 0 1.0)
-- FreePats (Single Cycle Conversion)
+See [[Credits.md]] for used sources.
