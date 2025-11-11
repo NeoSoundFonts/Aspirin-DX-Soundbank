@@ -22,4 +22,4 @@ Downloads:
 
 ---
 
-See [[Credits.md]] for used sources.
+See [Credits.md](Credits.md) for a list of used sources.
