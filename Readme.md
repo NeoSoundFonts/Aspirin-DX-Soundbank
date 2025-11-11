@@ -1,6 +1,6 @@
 A fork of Aspirin 160 GM GS Bank, but enhanced and increased quality.
 
-Split into two versions: **Normal** (Fair Use), and "Libre" (named as "Fairytale Edition", Licensed under Creative Commons 0 1.0).
+Split into two versions: **Normal** (Fair Use), and **Fairytale Edition** ("Libre" Variation; Licensed under Creative Commons 0 1.0).
 
 You can use and modify this soundbank whatever you want!
 
