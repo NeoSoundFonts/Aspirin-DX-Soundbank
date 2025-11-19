@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creator="LMMS" creatorversion="1.2.2" version="1.0" type="instrumenttracksettings">
+  <head/>
+  <instrumenttracksettings solo="0" name="t18_vl6_rr3_2.wav" type="0" muted="0">
+    <instrumenttrack pitch="0" basenote="48" pan="0" vol="106.4" fxch="0" usemasterpitch="1" pitchrange="1">
+      <instrument name="audiofileprocessor">
+        <audiofileprocessor looped="0" amp="100" lframe="0" sframe="0" src="t18_vl6_rr3_2.wav" eframe="1" reversed="0" interp="1" stutter="0"/>
+      </instrument>
+      <eldata ftype="0" fcut="14000" fres="0.5" fwet="0">
+        <elvol att="0" lspd_syncmode="0" userwavefile="" hold="0.064" lpdel="0" lshp="0" ctlenvamt="0" amt="1" latt="0" dec="0.468" lamt="0" pdel="0" lspd_numerator="4" rel="0.1" lspd_denominator="4" sustain="0.696" x100="0" lspd="0.1"/>
+        <elcut att="0" lspd_syncmode="0" userwavefile="" hold="0.5" lpdel="0" lshp="0" ctlenvamt="0" amt="0" latt="0" dec="0.5" lamt="0" pdel="0" lspd_numerator="4" rel="0.1" lspd_denominator="4" sustain="0.5" x100="0" lspd="0.1"/>
+        <elres att="0" lspd_syncmode="0" userwavefile="" hold="0.5" lpdel="0" lshp="0" ctlenvamt="0" amt="0" latt="0" dec="0.5" lamt="0" pdel="0" lspd_numerator="4" rel="0.1" lspd_denominator="4" sustain="0.5" x100="0" lspd="0.1"/>
+      </eldata>
+      <chordcreator chord="0" chord-enabled="0" chordrange="1"/>
+      <arpeggiator arptime_numerator="4" arp="0" arptime_syncmode="0" arpdir="0" arp-enabled="0" arptime_denominator="4" arpcycle="0" arprange="1" arpmode="0" arpskip="0" arpmiss="0" arptime="200" arpgate="100"/>
+      <midiport readable="0" writable="0" outputchannel="1" inputcontroller="0" fixedoutputvelocity="-1" fixedoutputnote="-1" fixedinputvelocity="-1" basevelocity="63" inputchannel="0" outputcontroller="0" outputprogram="1"/>
+      <fxchain numofeffects="3" enabled="1">
+        <effect autoquit_denominator="4" on="1" autoquit_numerator="4" autoquit="1" gate="0" name="ladspaeffect" wet="1" autoquit_syncmode="0">
+          <ladspacontrols ports="10">
+            <port02 data="0"/>
+            <port03 data="5.04"/>
+            <port04 data="2.7"/>
+            <port05 data="0"/>
+            <port06 data="0"/>
+            <port07 data="0"/>
+            <port08 data="0"/>
+            <port09 data="4.32"/>
+            <port010 data="9.81"/>
+            <port011 data="4.77"/>
+          </ladspacontrols>
+          <key>
+            <attribute value="caps" name="file"/>
+            <attribute value="Eq2x2" name="plugin"/>
+          </key>
+        </effect>
+        <effect autoquit_denominator="4" on="1" autoquit_numerator="4" autoquit="1" gate="0" name="ladspaeffect" wet="1" autoquit_syncmode="0">
+          <ladspacontrols link="1" ports="32">
+            <port00 link="1" data="0"/>
+            <port01 link="1" data="-4.4625"/>
+            <port02 link="1" data="-6.65"/>
+            <port03 link="1" data="-2.8875"/>
+            <port04 link="1" data="0"/>
+            <port05 link="1" data="4.9875"/>
+            <port06 link="1" data="2.45"/>
+            <port07 link="1" data="7.9625"/>
+            <port08 link="1" data="100"/>
+            <port09 link="1" data="200"/>
+            <port010 link="1" data="572"/>
+            <port011 link="1" data="1000"/>
+            <port012 link="1" data="3000"/>
+            <port013 link="1" data="6000"/>
+            <port014 link="1" data="10755"/>
+            <port015 link="1" data="15000"/>
+            <port10 data="0"/>
+            <port11 data="-4.4625"/>
+            <port12 data="-6.65"/>
+            <port13 data="-2.8875"/>
+            <port14 data="0"/>
+            <port15 data="4.9875"/>
+            <port16 data="2.45"/>
+            <port17 data="7.9625"/>
+            <port18 data="100"/>
+            <port19 data="200"/>
+            <port110 data="572"/>
+            <port111 data="1000"/>
+            <port112 data="3000"/>
+            <port113 data="6000"/>
+            <port114 data="10755"/>
+            <port115 data="15000"/>
+          </ladspacontrols>
+          <key>
+            <attribute value="tap_eq" name="file"/>
+            <attribute value="tap_equalizer" name="plugin"/>
+          </key>
+        </effect>
+        <effect autoquit_denominator="4" on="1" autoquit_numerator="4" autoquit="1" gate="0" name="reverbsc" wet="0.25" autoquit_syncmode="0">
+          <ReverbSCControls color="9695.6" input_gain="0" output_gain="2.1" size="0.76"/>
+          <key/>
+        </effect>
+      </fxchain>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>

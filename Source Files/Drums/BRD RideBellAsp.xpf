@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creator="LMMS" creatorversion="1.2.2" type="instrumenttracksettings" version="1.0">
+  <head/>
+  <instrumenttracksettings solo="0" name="rd_bl_vl4_rr1.wav" muted="0" type="0">
+    <instrumenttrack usemasterpitch="1" pitchrange="1" pitch="0" pan="0" fxch="0" vol="100" basenote="48">
+      <instrument name="audiofileprocessor">
+        <audiofileprocessor sframe="0" src="rd_bl_vl4_rr1.wav" eframe="1" reversed="0" interp="1" looped="0" lframe="0" stutter="0" amp="218"/>
+      </instrument>
+      <eldata fcut="14000" ftype="0" fwet="0" fres="0.5">
+        <elvol ctlenvamt="0" lpdel="0" pdel="0" userwavefile="" dec="0.9" lspd_denominator="4" rel="0.1" hold="0.056" lamt="0" amt="0.835" lshp="0" att="0" latt="0" lspd_numerator="4" lspd_syncmode="0" x100="0" sustain="0.592" lspd="0.1"/>
+        <elcut ctlenvamt="0" lpdel="0" pdel="0" userwavefile="" dec="0.5" lspd_denominator="4" rel="0.1" hold="0.5" lamt="0" amt="0" lshp="0" att="0" latt="0" lspd_numerator="4" lspd_syncmode="0" x100="0" sustain="0.5" lspd="0.1"/>
+        <elres ctlenvamt="0" lpdel="0" pdel="0" userwavefile="" dec="0.5" lspd_denominator="4" rel="0.1" hold="0.5" lamt="0" amt="0" lshp="0" att="0" latt="0" lspd_numerator="4" lspd_syncmode="0" x100="0" sustain="0.5" lspd="0.1"/>
+      </eldata>
+      <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+      <arpeggiator arptime_syncmode="0" arpmiss="0" arp="0" arprange="1" arpdir="0" arpmode="0" arpskip="0" arpgate="100" arpcycle="0" arp-enabled="0" arptime="200" arptime_denominator="4" arptime_numerator="4"/>
+      <midiport fixedoutputvelocity="-1" outputchannel="1" outputcontroller="0" outputprogram="1" readable="0" inputchannel="0" inputcontroller="0" basevelocity="63" fixedinputvelocity="-1" fixedoutputnote="-1" writable="0"/>
+      <fxchain enabled="1" numofeffects="1">
+        <effect autoquit_numerator="4" name="ladspaeffect" autoquit_syncmode="0" on="1" wet="1" gate="0" autoquit="1" autoquit_denominator="4">
+          <ladspacontrols ports="10">
+            <port02 data="0"/>
+            <port03 data="0"/>
+            <port04 data="0"/>
+            <port05 data="-5.67"/>
+            <port06 data="-2.61"/>
+            <port07 data="0"/>
+            <port08 data="0"/>
+            <port09 data="0"/>
+            <port010 data="-3.6"/>
+            <port011 data="4.59"/>
+          </ladspacontrols>
+          <key>
+            <attribute name="file" value="caps"/>
+            <attribute name="plugin" value="Eq2x2"/>
+          </key>
+        </effect>
+      </fxchain>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>

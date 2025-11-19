@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creator="LMMS" type="instrumenttracksettings" version="1.0" creatorversion="1.2.2">
+  <head/>
+  <instrumenttracksettings name="sn_ss_vl4_rr2.wav" type="0" solo="0" muted="0">
+    <instrumenttrack pitchrange="1" vol="100" pitch="0" basenote="48" fxch="0" usemasterpitch="1" pan="0">
+      <instrument name="audiofileprocessor">
+        <audiofileprocessor stutter="0" reversed="0" looped="0" amp="100" eframe="1" lframe="0" src="sn_ss_vl4_rr2.wav" interp="1" sframe="0"/>
+      </instrument>
+      <eldata fcut="14000" ftype="0" fwet="0" fres="0.5">
+        <elvol amt="0" hold="0.5" lpdel="0" lspd_syncmode="0" att="0" x100="0" rel="0.1" latt="0" dec="0.5" lspd="0.1" ctlenvamt="0" sustain="0.5" lshp="0" lamt="0" lspd_numerator="4" pdel="0" lspd_denominator="4" userwavefile=""/>
+        <elcut amt="0" hold="0.5" lpdel="0" lspd_syncmode="0" att="0" x100="0" rel="0.1" latt="0" dec="0.5" lspd="0.1" ctlenvamt="0" sustain="0.5" lshp="0" lamt="0" lspd_numerator="4" pdel="0" lspd_denominator="4" userwavefile=""/>
+        <elres amt="0" hold="0.5" lpdel="0" lspd_syncmode="0" att="0" x100="0" rel="0.1" latt="0" dec="0.5" lspd="0.1" ctlenvamt="0" sustain="0.5" lshp="0" lamt="0" lspd_numerator="4" pdel="0" lspd_denominator="4" userwavefile=""/>
+      </eldata>
+      <chordcreator chord="0" chord-enabled="0" chordrange="1"/>
+      <arpeggiator arpmiss="0" arp="0" arptime_syncmode="0" arpcycle="0" arprange="1" arptime_numerator="4" arpdir="0" arptime="200" arpgate="100" arpmode="0" arptime_denominator="4" arp-enabled="0" arpskip="0"/>
+      <midiport inputchannel="0" readable="0" outputchannel="1" inputcontroller="0" outputcontroller="0" fixedoutputvelocity="-1" fixedinputvelocity="-1" fixedoutputnote="-1" outputprogram="1" basevelocity="63" writable="0"/>
+      <fxchain enabled="1" numofeffects="2">
+        <effect on="1" autoquit_numerator="4" wet="1" name="ladspaeffect" autoquit_syncmode="0" autoquit_denominator="4" autoquit="1" gate="0">
+          <ladspacontrols ports="10">
+            <port02 data="0"/>
+            <port03 data="-11.52"/>
+            <port04 data="-2.43"/>
+            <port05 data="-2.97"/>
+            <port06 data="-2.61"/>
+            <port07 data="0"/>
+            <port08 data="0"/>
+            <port09 data="0"/>
+            <port010 data="10.89"/>
+            <port011 data="8.64"/>
+          </ladspacontrols>
+          <key>
+            <attribute value="caps" name="file"/>
+            <attribute value="Eq2x2" name="plugin"/>
+          </key>
+        </effect>
+        <effect on="1" autoquit_numerator="4" wet="1" name="eq" autoquit_syncmode="0" autoquit_denominator="4" autoquit="1" gate="0">
+          <Eq AnalyseOut="1" Peak4gain="0" Peak1active="0" Highshelfactive="1" HighShelfgain="7.02" LPres="0.707" HPres="0.707" Outputgain="0" Peak3active="0" Lowshelfactive="0" Peak3gain="0" Peak1bw="0.3" LP24="0" HPactive="0" Peak3bw="0.3" LPactive="0" HP="0" Peak2bw="0.3" LP48="0" Peak4bw="0.3" HighShelfres="0.751" HP48="0" Peak2active="0" LP12="1" Peak2gain="0" AnalyseIn="1" LP="0" LowShelfres="1.4" HP12="1" Lowshelfgain="0" Peak4active="1" HP24="0">
+            <Inputgain id="25204" value="0" scale_type="log"/>
+            <Peak1gain id="1696" value="0" scale_type="log"/>
+            <HPfreq id="14788" value="31" scale_type="log"/>
+            <LowShelffreq id="32135" value="80" scale_type="log"/>
+            <Peak1freq id="30092" value="120" scale_type="log"/>
+            <Peak2freq id="12171" value="250" scale_type="log"/>
+            <Peak3freq id="6024" value="2000" scale_type="log"/>
+            <Peak4freq id="26893" value="3761.78" scale_type="log"/>
+            <Highshelffreq id="13756" value="8301.96" scale_type="log"/>
+            <LPfreq id="13033" value="18000" scale_type="log"/>
+          </Eq>
+          <key/>
+        </effect>
+      </fxchain>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>
