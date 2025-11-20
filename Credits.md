@@ -13,6 +13,7 @@ Samples compiled from:
 - [Baujahr66 Music Box](https://freesound.org/people/baujahr66/packs/9736/), recorded by using Zoom H2
 - [Anthousai Bottle Blow](https://freesound.org/people/Anthousai/sounds/447748/), recorded by using Tascam DR-40
 - [Mrforfs Fretless Bass](https://freesound.org/people/mrforfs/packs/23201/), recorded directly without FX
+- [spt3125 Gayageum](https://freesound.org/people/spt3125/packs/1534/), recorded with a stereo pair of Oktava mk012 mics overhead, XY-ish
 - S.P. Resamples
 - Some Yingchun Soul Resampled from other synthesizers and exported from LMMS (e.g. Dexed, Surge, ZynAddSubFX)
 
