@@ -4,7 +4,7 @@ Samples compiled from:
 - [VSCO-2: Community Edition](https://versilian-studios.com/vsco-community/)
 - [University of Iowa](https://theremin.music.uiowa.edu/) (Freely available, without restrictions)
 - NeoSF2
-- [FreePats](https://freepats.zenvoid.org/)
+- [FreePats](https://freepats.zenvoid.org/) (Selecting Creative Commons 0 1.0 licensed samples)
 - PattingTheStar
 - [Karoryfer](https://karoryfer-samples.myshopify.com/pages/free-samples)
 - Stamperadam
