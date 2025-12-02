@@ -16,6 +16,7 @@ Samples compiled from:
 - [Mrforfs Fretless Bass](https://freesound.org/people/mrforfs/packs/23201/), recorded directly without FX
 - [spt3125 Gayageum](https://freesound.org/people/spt3125/packs/1534/), recorded with a stereo pair of Oktava mk012 mics overhead, XY-ish
 - Various recordings from S.P.
+- [Witch's Strat](https://musical-artifacts.com/artifacts/4695)
 - S.P. Resamples/Resynthesis
 - Steel Drum by J.L. (Licensed under: The Unlicense)
 - Some Yingchun Soul Resampled from other synthesizers and exported from LMMS (e.g. Dexed, Surge, ZynAddSubFX)
