@@ -1,4 +1,4 @@
-Feel free to contribute missing samples (besure to be libre sources or original recordings!) for this project, by forking the repo and create pull requests!
+Feel free to contribute samples (besure to be libre sources or original recordings!) to improve this project, by forking the repo and create pull requests!
 
 ---
 

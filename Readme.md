@@ -4,18 +4,11 @@ Split into two versions: **Normal** (Fair Use), and **Fairytale Edition** ("Libr
 
 ---
 
-Notes:
-
-Instruments that reserved for future use are prefixed with "R-".<br>
-Samples available but not implemented at now, indicated with "\*" (Asterisk).
-
----
-
 Downloads:
 
 - [Normal](https://musical-artifacts.com/artifacts/7325)
   - Use it fairly, since it contains samples that "All Rights Reserved" to original authors such as Korg, E-MU, Roland, etc.
-- Fairytale Edition (Work in Progress; Clone the repo, or download Zip)
+- Fairytale Edition (Clone the repo, or download Zip)
   - This version removes non-free, ARR, and fair use samples, meaning you can use it whatever you want. For example, you can use it for Music Production, Live Performance, and DFSG-compatible projects, etc.
 
 You can modify these soundbanks whatever you want!
