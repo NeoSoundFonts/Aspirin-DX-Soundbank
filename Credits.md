@@ -1,4 +1,4 @@
-Samples compiled from:
+**Samples compiled from:**
 
 - [VCSL](https://versilian-studios.com/vcsl/)
 - [VSCO-2: Community Edition](https://versilian-studios.com/vsco-community/)
@@ -21,11 +21,19 @@ Samples compiled from:
 - Steel Drum by J.L. (Licensed under: The Unlicense)
 - Some Yingchun Soul Resampled from other synthesizers and exported from LMMS (e.g. Dexed, Surge, ZynAddSubFX)
 
-Sound Effects:
+**Sound Effects:**
 
+- Guitar Fret Noise - SpeedY
 - [Seashore - crooner](https://www.ear0.com/sound/show/soundid-16283)
+- Bird Tweet - Titi2
+- Telephone - MrOptimism
+- Helicopter - Realsquink
+- Applause - ThaighAudio
+- Gunshot - Areniporgen
 
-Wavetable used:
+Sounds came from freesound, unless stated
+
+**Wavetable used:**
 
 - Yingchun Soul
 - [AKWF Free Wavetables](https://www.adventurekid.se/akrt/waveforms/adventure-kid-waveforms/)
