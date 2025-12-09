@@ -11,6 +11,7 @@
 - Balanced Slap Bass volume.
 - Added Converge, Shwimmer, and Unicorn Pad.
 - Improved Brass Section.
+- Lengthened Cymbal Release.
 
 # 2025-12-08
 
