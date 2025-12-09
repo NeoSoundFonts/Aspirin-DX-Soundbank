@@ -12,6 +12,7 @@
 - Added Converge, Shwimmer, and Unicorn Pad.
 - Improved Brass Section.
 - Lengthened Cymbal Release.
+- Added Brass Sforzando.
 
 # 2025-12-08
 
