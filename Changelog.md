@@ -10,6 +10,7 @@
 - Added Attack sound to Ukulele, sampled from SP.
 - Balanced Slap Bass volume.
 - Added Converge, Shwimmer, and Unicorn Pad.
+- Improved Brass Section.
 
 # 2025-12-08
 
