@@ -13,6 +13,7 @@
 - Improved Brass Section.
 - Lengthened Cymbal Release.
 - Added Brass Sforzando.
+- Added LA Alto Flute to Bank 1, Program 73. (Attack from VSCO-2 CE, wavetable from AKWF Free Wavetables; Both are CC0-licensed)
 
 # 2025-12-08
 
