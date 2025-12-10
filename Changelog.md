@@ -1,3 +1,8 @@
+# 2025-12-11
+
+- Updated ZynAddSubFX Rock Organ.
+- Removed Pad Organ, updated LA Retour.
+
 # 2025-12-10
 
 - Patch Tweaks.
