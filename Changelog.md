@@ -3,6 +3,7 @@
 - Patch Tweaks.
 - Added some patches from normal version and replaced samples.
 - Resampled Synth Strings.
+- Rebalanced volume.
 
 # 2025-12-09
 

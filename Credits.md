@@ -30,6 +30,7 @@
 - Helicopter - Realsquink
 - Applause - ThaighAudio
 - Gunshot - Areniporgen
+- Scream - DigitalDominic
 
 Sounds came from freesound, unless stated
 
