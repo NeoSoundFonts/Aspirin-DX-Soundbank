@@ -1,3 +1,9 @@
+# 2025-12-10
+
+- Patch Tweaks.
+- Added some patches from normal version and replaced samples.
+- Resampled Synth Strings.
+
 # 2025-12-09
 
 - Moved Strumstick m (VCSL SanXianQin m) to Bank 9, Program 105.
