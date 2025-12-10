@@ -4,6 +4,7 @@
 - Added some patches from normal version and replaced samples.
 - Resampled Synth Strings.
 - Rebalanced volume.
+- Fixed Brush Snare Assist in the Electro Kit.
 
 # 2025-12-09
 
