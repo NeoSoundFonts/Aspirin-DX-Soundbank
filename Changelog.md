@@ -4,7 +4,9 @@
 - Added some patches from normal version and replaced samples.
 - Resampled Synth Strings.
 - Rebalanced volume.
-- Fixed Brush Snare Assist in the Electro Kit.
+- Updated Brush Snare Assist in the Electro Kit.
+- Resampled Warm Pad Assist.
+- Added Dance Hi-Hat.
 
 # 2025-12-09
 
