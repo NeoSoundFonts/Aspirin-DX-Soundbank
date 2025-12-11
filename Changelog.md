@@ -2,10 +2,9 @@
 
 - Updated ZynAddSubFX Rock Organ.
 - Removed Pad Organ, updated LA Retour.
-- Synth Strings and Choir Aahs samples are now Stereo.
 - Replaced other Choir Pad with Space Voice.
-- Resampled String Ensemble.
 - Balanced attenuation for Dance Hi-Hats.
+- Resampled some instruments to Stereo.
 
 # 2025-12-10
 
