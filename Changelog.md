@@ -1,3 +1,9 @@
+# 2025-12-12
+
+- Updated Jump Brass.
+- Balanced volume for some patches.
+- Patch Tweaks.
+
 # 2025-12-11
 
 - Updated ZynAddSubFX Rock Organ.
