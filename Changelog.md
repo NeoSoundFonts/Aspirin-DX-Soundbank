@@ -5,7 +5,7 @@
 - Synth Strings and Choir Aahs samples are now Stereo.
 - Replaced other Choir Pad with Space Voice.
 - Resampled String Ensemble.
-- Balanced attenuation for Hi-Hats.
+- Balanced attenuation for Dance Hi-Hats.
 
 # 2025-12-10
 
