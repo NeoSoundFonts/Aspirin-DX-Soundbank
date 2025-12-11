@@ -2,6 +2,7 @@
 
 - Updated ZynAddSubFX Rock Organ.
 - Removed Pad Organ, updated LA Retour.
+- Synth Strings samples are now Stereo.
 
 # 2025-12-10
 
