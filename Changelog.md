@@ -4,6 +4,7 @@
 - Removed Pad Organ, updated LA Retour.
 - Synth Strings and Choir Aahs samples are now Stereo.
 - Replaced other Choir Pad with Space Voice.
+- Resampled String Ensemble.
 
 # 2025-12-10
 
