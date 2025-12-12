@@ -3,6 +3,7 @@
 - Updated Jump Brass.
 - Balanced volume for some patches.
 - Patch Tweaks.
+- Balanced attenuation for Maracas.
 
 # 2025-12-11
 
