@@ -13,6 +13,10 @@
 - Added Disco Bass preset from Oldschool Disco Station (samples were abridged).
 - Changed Synth Horns to Oldschool Disco Station's version (samples were abridged).
 - Changed New Age (Bank 2, Program 088) to Oldschool Disco Station's version (samples were abridged and replaced).
+- Added Polysynth 2 (Bank 1, Program 090).
+- Added Sunset Pad  (Bank 1, Program 092).
+- Added Disco Back Synth  (Bank 3, Program 090).
+- Tweaked Jazz Kit.
 
 # 2025-12-11
 
