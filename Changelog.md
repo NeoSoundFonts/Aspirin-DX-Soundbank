@@ -1,3 +1,7 @@
+# 2025-12-13
+
+- Improved Techno Club Kick.
+
 # 2025-12-12
 
 - Updated Jump Brass.
