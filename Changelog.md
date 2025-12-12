@@ -4,6 +4,7 @@
 - Balanced volume for some patches.
 - Patch Tweaks.
 - Balanced attenuation for Maracas.
+- Fixed Acid Rock Guitar position to 009:084.
 
 # 2025-12-11
 
