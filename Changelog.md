@@ -12,6 +12,7 @@
 - Added 3-Saw Lead preset from Oldschool Disco Station (samples were abridged).
 - Added Disco Bass preset from Oldschool Disco Station (samples were abridged).
 - Changed Synth Horns to Oldschool Disco Station's version (samples were abridged).
+- Changed New Age (Bank 2, Program 088) to Oldschool Disco Station's version (samples were abridged and replaced).
 
 # 2025-12-11
 
