@@ -6,6 +6,7 @@
 - Balanced attenuation for Maracas.
 - Fixed Acid Rock Guitar position to Bank 9, Program 084.
 - Resampled FM EP with Stereo Samples.
+- Added Pretty Bells, Christmas Bells, and Vibe Bells.
 
 # 2025-12-11
 
