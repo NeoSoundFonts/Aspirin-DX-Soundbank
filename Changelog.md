@@ -16,6 +16,8 @@
 - Added Polysynth 2 (Bank 1, Program 090).
 - Added Sunset Pad  (Bank 1, Program 092).
 - Added Disco Back Synth  (Bank 3, Program 090).
+- Replaced Spectrum samples to stereo.
+- Added Octave Pad.
 - Tweaked Jazz Kit.
 
 # 2025-12-11
