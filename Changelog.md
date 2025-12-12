@@ -4,7 +4,8 @@
 - Balanced volume for some patches.
 - Patch Tweaks.
 - Balanced attenuation for Maracas.
-- Fixed Acid Rock Guitar position to 009:084.
+- Fixed Acid Rock Guitar position to Bank 9, Program 084.
+- Resampled FM EP with Stereo Samples.
 
 # 2025-12-11
 
