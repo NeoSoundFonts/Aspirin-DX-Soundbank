@@ -7,6 +7,11 @@
 - Fixed Acid Rock Guitar position to Bank 9, Program 084.
 - Resampled FM EP with Stereo Samples.
 - Added Pretty Bells, Christmas Bells, and Vibe Bells.
+- Changed House Bass 1.
+- Changed Rubber Bass 1.
+- Added 3-Saw Lead preset from Oldschool Disco Station (samples were abridged).
+- Added Disco Bass preset from Oldschool Disco Station (samples were abridged).
+- Changed Synth Horns to Oldschool Disco Station's version (samples were abridged).
 
 # 2025-12-11
 
