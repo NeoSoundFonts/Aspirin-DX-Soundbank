@@ -8,6 +8,7 @@
 - Resampled Synth Brass.
 - Added one note for Clean Guitar.
 - Added Soft Crystal.
+- Adjusted volume for Sine Wave and Sine Bass.
 
 # 2025-12-12
 
