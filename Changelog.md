@@ -4,6 +4,9 @@
 - Resampled FM EP.
 - Added Midnight Bells.
 - Changed Synth Harp to Oldschool Disco Station's version (samples were abridged).
+- Added Dream Bells.
+- Added Analog Bells.
+- Resampled Synth Brass.
 
 # 2025-12-12
 
