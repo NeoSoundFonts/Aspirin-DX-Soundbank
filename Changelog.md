@@ -1,3 +1,8 @@
+# 2025-12-14
+
+- Added Coral Atmosphere (from Ocean Magic Workstation, but different samples).
+- Changed some prefix for some Instrument Names.
+
 # 2025-12-13
 
 - Improved Techno Club Kick.
