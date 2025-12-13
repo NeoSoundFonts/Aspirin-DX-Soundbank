@@ -1,6 +1,9 @@
 # 2025-12-13
 
 - Improved Techno Club Kick.
+- Resampled FM EP.
+- Added Midnight Bells.
+- Changed Synth Harp to Oldschool Disco Station's version (samples were abridged).
 
 # 2025-12-12
 
@@ -18,7 +21,7 @@
 - Changed Synth Horns to Oldschool Disco Station's version (samples were abridged).
 - Changed New Age (Bank 2, Program 088) to Oldschool Disco Station's version (samples were abridged and replaced).
 - Added Polysynth 2 (Bank 1, Program 090).
-- Added Sunset Pad  (Bank 1, Program 092).
+- Added Sunset Pad (Bank 1, Program 092).
 - Added Disco Back Synth  (Bank 3, Program 090).
 - Replaced Spectrum samples to stereo.
 - Added Octave Pad.
