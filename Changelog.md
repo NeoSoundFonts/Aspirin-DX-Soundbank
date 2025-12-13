@@ -2,11 +2,12 @@
 
 - Improved Techno Club Kick.
 - Resampled FM EP.
-- Added Midnight Bells.
 - Changed Synth Harp to Oldschool Disco Station's version (samples were abridged).
 - Added Dream Bells.
 - Added Analog Bells.
 - Resampled Synth Brass.
+- Added one note for Clean Guitar.
+- Added Soft Crystal.
 
 # 2025-12-12
 
