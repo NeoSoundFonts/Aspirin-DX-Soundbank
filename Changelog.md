@@ -1,3 +1,8 @@
+# 2025-12-15
+
+- Patch Tweaks.
+- Added another Disco Bass in Bank 33, Program 39.
+
 # 2025-12-14
 
 - Added Coral Atmosphere (from Ocean Magic Workstation, but different samples).
