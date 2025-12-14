@@ -3,7 +3,6 @@
 - Added Coral Atmosphere (from Ocean Magic Workstation, but different samples).
 - Changed some prefix for some Instrument Names.
 - Renamed Octave Pad to Deep Sea Pad, and lowered an octave.
-- Changed Sample Offset for Synth String Offset Instrument.
 - Patch Tweaks.
 - Added Octave Saw.
 - Added another Dream Piano, based on Oldschool Disco Station version.
@@ -13,6 +12,7 @@
 - Renamed Big Lead to Dance Lead.
 - Added Analog Brass from Oldschool Disco Station (samples were abridged).
 - Added 5th Atmosphere Pad, based on Ocean Magic Workstation's version.
+- Resampled Synth Strings, now only use 6 samples.
 
 # 2025-12-13
 
