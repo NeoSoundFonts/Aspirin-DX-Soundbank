@@ -2,7 +2,7 @@
 
 - Added Coral Atmosphere (from Ocean Magic Workstation, but different samples).
 - Changed some prefix for some Instrument Names.
-- Lowered an octave for Octave Pad.
+- Renamed Octave Pad to Deep Sea Pad, and lowered an octave.
 - Changed Sample Offset for Synth String Offset Instrument.
 - Patch Tweaks.
 - Added Octave Saw.
@@ -10,6 +10,9 @@
 - Shorted decay for Breath Noise.
 - Added Axis Pad.
 - Abridged length of Synth Harp samples.
+- Renamed Big Lead to Dance Lead.
+- Added Analog Brass from Oldschool Disco Station (samples were abridged).
+- Added 5th Atmosphere Pad, based on Ocean Magic Workstation's version.
 
 # 2025-12-13
 
