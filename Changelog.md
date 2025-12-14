@@ -7,6 +7,9 @@
 - Patch Tweaks.
 - Added Octave Saw.
 - Added another Dream Piano, based on Oldschool Disco Station version.
+- Shorted decay for Breath Noise.
+- Added Axis Pad.
+- Abridged length of Synth Harp samples.
 
 # 2025-12-13
 
