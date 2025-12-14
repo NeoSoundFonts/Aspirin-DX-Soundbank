@@ -13,6 +13,7 @@
 - Added Analog Brass from Oldschool Disco Station (samples were abridged).
 - Added 5th Atmosphere Pad, based on Ocean Magic Workstation's version.
 - Resampled Synth Strings, now only use 6 samples.
+- Volume Balance for Warm Pad Assist Layer.
 
 # 2025-12-13
 
