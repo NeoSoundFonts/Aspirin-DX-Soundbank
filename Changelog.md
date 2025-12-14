@@ -2,6 +2,11 @@
 
 - Added Coral Atmosphere (from Ocean Magic Workstation, but different samples).
 - Changed some prefix for some Instrument Names.
+- Lowered an octave for Octave Pad.
+- Changed Sample Offset for Synth String Offset Instrument.
+- Patch Tweaks.
+- Added Octave Saw.
+- Added another Dream Piano, based on Oldschool Disco Station version.
 
 # 2025-12-13
 
