@@ -2,6 +2,12 @@
 
 - Patch Tweaks.
 - Added another Disco Bass in Bank 33, Program 39.
+- Resampled Synth Voice, now in Stereo Samples.
+- Added LA Brass Section.
+- Resampled Synth Brass F#5, fixing bad clicks.
+- Moved original Star Theme Recreation to Star Theme 2.
+- Updated Star Theme.
+- Added Mellow FM, made by using OpulenZ.
 
 # 2025-12-14
 
