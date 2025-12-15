@@ -11,6 +11,7 @@
 - Added Sinus EP.
 - Replaced Tech Synth Strings with 80's Dream Strings.
 - Added Click Synth Voice and Night Voice, both from Ocean Magic Workstaion.
+- Fixed Noise Piano position.
 
 # 2025-12-14
 
