@@ -1,3 +1,7 @@
+# 2025-12-16
+
+- Added Deep Bass.
+
 # 2025-12-15
 
 - Patch Tweaks.
