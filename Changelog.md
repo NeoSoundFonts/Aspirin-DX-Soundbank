@@ -9,6 +9,8 @@
 - Updated Star Theme.
 - Added Mellow FM, made by using OpulenZ.
 - Added Sinus EP.
+- Replaced Tech Synth Strings with 80's Dream Strings.
+- Added Click Synth Voice and Night Voice, both from Ocean Magic Workstaion.
 
 # 2025-12-14
 
