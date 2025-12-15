@@ -8,6 +8,7 @@
 - Moved original Star Theme Recreation to Star Theme 2.
 - Updated Star Theme.
 - Added Mellow FM, made by using OpulenZ.
+- Added Sinus EP.
 
 # 2025-12-14
 
