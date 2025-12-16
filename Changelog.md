@@ -3,6 +3,8 @@
 - Added Deep Bass.
 - Volume Balance for Standard Kick and Snares.
 - Added Key Click that was sampled by Sylvia Leaf (sleaf).
+- Updated Fat Saw.
+- Patch Tweaks.
 
 # 2025-12-15
 
