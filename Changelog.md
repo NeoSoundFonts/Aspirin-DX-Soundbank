@@ -1,6 +1,8 @@
 # 2025-12-16
 
 - Added Deep Bass.
+- Volume Balance for Standard Kick and Snares.
+- Added Key Click that was sampled by Sylvia Leaf (sleaf).
 
 # 2025-12-15
 
