@@ -8,7 +8,7 @@ Downloads:
 
 - [Normal](https://musical-artifacts.com/artifacts/7325)
   - Use it fairly, since it contains samples that "All Rights Reserved" to original authors such as Korg, E-MU, Roland, etc.
-- Fairytale Edition (Clone the repo by using "git" client, or download via [Releases](https://github.com/NeoSoundFonts/Aspirin-DX-Soundbank/releases) page)
+- [Fairytale Edition](https://github.com/NeoSoundFonts/Aspirin-DX-Soundbank/releases)
   - This version removes non-free, ARR, and fair use samples, meaning you can use it whatever you want. For example, you can use it for Music Production, Live Performance, and DFSG-compatible projects, etc.
 
 You can modify these soundbanks whatever you want!
