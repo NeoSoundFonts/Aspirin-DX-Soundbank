@@ -1,6 +1,6 @@
 * text=auto
 *.xpf text eol=lf
-*.sf2 filter=lfs diff=lfs merge=lfs -text
+*.sf2 binary
 *.fxp binary
 *.wav binary
 *.flac binary
