@@ -29,8 +29,37 @@
 - Telephone - MrOptimism
 - Helicopter - Realsquink
 - Applause - ThaighAudio
-- Gunshot - Areniporgen
+- Gunshots - Areniporgen
 - Scream - DigitalDominic
+- Electric Guitar Cut Noises - Joao Janz
+- Flute Key Click - Sylvia Leaf (Not in freesound)
+- Wind Chimes - [VSCO-2: Community Edition](https://versilian-studios.com/vsco-community/)
+- Thunder - LukaCafuka
+- Wind Forest - TeaDrinker
+- Rain - zavoronok
+- River - MarcMatthewsMusic
+- Dog Bark - kwahmah_02
+- Horse Gallop - AlecCorday
+- White Noise - Yingchun Soul (Not in freesound)
+- Chain Grind Loop - Miscellania Raw (in VSCO-2: Community Edition)
+- Bubbles - Miscellania Raw (in VSCO-2: Community Edition)
+- Bird Single - Yingchun Soul (Not in freesound)
+- Boom! - Layered with FelixBlume's Dynamite and Unfa's Fireworks
+- Heart Beat - biffa
+- Airplane Takeoff - Keng Wai Chane Chick Te
+- Lasergun - jgrzinich
+- Door Open - N-RAZM
+- Door Close - foxfire
+- Girl Laugh - Buggly
+- Punch - Eminyildirim
+- Scratch - Jameswrowles
+- Car Brake - Audible Edge
+- Car Start - Giddster
+- Car Pass - Martian
+- Car Crash - Pauliusi
+- Traditional Phone - Yingchun Soul (Not in freesound)
+- Siren Warning - Yingchun Soul (Not in freesound)
+- Train Ambience - alexanderche
 
 Sounds came from freesound, unless stated
 

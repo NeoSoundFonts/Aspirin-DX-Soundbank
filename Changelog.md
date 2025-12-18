@@ -1,3 +1,8 @@
+# 2025-12-18
+
+- Completed Sound Effects in SC-55 Map, added White Noise.
+- Added another Clean Guitar that mimics original Aspirin 160.
+
 # 2025-12-16
 
 - Added Deep Bass.
