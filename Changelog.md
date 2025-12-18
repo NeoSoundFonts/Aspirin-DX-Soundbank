@@ -2,6 +2,7 @@
 
 - Completed Sound Effects in SC-55 Map, added White Noise.
 - Added another Clean Guitar that mimics original Aspirin 160.
+- Added Windchime Pad.
 
 # 2025-12-16
 
