@@ -3,7 +3,8 @@
 - Completed Sound Effects in SC-55 Map, added White Noise.
 - Added another Clean Guitar that mimics original Aspirin 160.
 - Added Windchime Pad.
-- Trimmed Loops for New Century and Jetplane.
+- Trimmed Loops for New Century.
+- Changed Airplane Wave with Yingchun Soul's Version.
 
 # 2025-12-16
 
