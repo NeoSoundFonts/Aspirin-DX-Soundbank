@@ -1,0 +1,1 @@
+These are individual banks of **Aspirin DX - Fairytale Edition** that keeping updates by realtime. Filesize of each bank is up to 50MB.

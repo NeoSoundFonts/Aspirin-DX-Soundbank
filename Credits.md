@@ -46,7 +46,7 @@
 - Bird Single - Yingchun Soul (Not in freesound)
 - Boom! - Layered with FelixBlume's Dynamite and Unfa's Fireworks
 - Heart Beat - biffa
-- Airplane Takeoff - Keng Wai Chane Chick Te
+- Airplane Waves - Yingchun Soul (Not in freesound)
 - Lasergun - jgrzinich
 - Door Open - N-RAZM
 - Door Close - foxfire
