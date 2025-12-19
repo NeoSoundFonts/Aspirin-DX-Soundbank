@@ -1,6 +1,9 @@
 # 2025-12-19
 
 - Updated Analog Kick 2.
+- Updated LA Slap Bass and Cross-Wire Bass.
+- Added Dance Organ, sampled from [this](https://musical-artifacts.com/artifacts/4999) preset.
+- Updated Dream Pad 2.
 
 # 2025-12-18
 
