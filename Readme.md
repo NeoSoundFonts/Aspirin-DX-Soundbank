@@ -4,6 +4,10 @@ Split into two versions: **Normal** (Fair Use), and **Fairytale Edition** ("Libr
 
 ---
 
+Do you want 80's and 90's vibes? This is the soundbank for you! Every presets are reverb'd, just like original Aspirin 160.
+
+---
+
 Downloads:
 
 - [Normal](https://musical-artifacts.com/artifacts/7325)

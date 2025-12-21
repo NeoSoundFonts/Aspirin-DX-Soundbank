@@ -1,9 +1,19 @@
+# 2025-12-21
+
+- Added Vibrato Variation of:
+  - FreePats Guitar
+  - Electric Steel Guitar
+  - FreePats Rock Guitar
+  - FreePats Clean Guitar
+
 # 2025-12-19
 
 - Updated Analog Kick 2.
 - Updated LA Slap Bass and Cross-Wire Bass.
 - Added Dance Organ, sampled from [this](https://musical-artifacts.com/artifacts/4999) preset.
 - Updated Dream Pad 2.
+- Added Music Box 2.
+- Patch Tweaks.
 
 # 2025-12-18
 
