@@ -1,3 +1,12 @@
+# 2025-12-22
+
+- Added Vibrato version of Harp and Folk Harp.
+- Added Sitar/Drone (Slide) from Discord SFZ GM.
+- Updated Lore samples. (Made by using VSCO-2 CE and VCSL)
+- Removed Hand Chimes Layer on Music Box 2.
+- Added Traditional Dreams.
+- Patch Tweaks.
+
 # 2025-12-21
 
 - Added Vibrato Variation of:
