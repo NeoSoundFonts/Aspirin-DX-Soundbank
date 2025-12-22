@@ -9,6 +9,7 @@
 - Added Distortion Lead.
 - Added Octave Pad.
 - Updated Nostalgic Pad.
+- Added Monster Power.
 - Patch Tweaks.
 
 # 2025-12-21
