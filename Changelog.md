@@ -5,6 +5,10 @@
 - Updated Lore samples. (Made by using VSCO-2 CE and VCSL)
 - Removed Hand Chimes Layer on Music Box 2.
 - Added Traditional Dreams.
+- Updated Ober Brass.
+- Added Distortion Lead.
+- Added Octave Pad.
+- Updated Nostalgic Pad.
 - Patch Tweaks.
 
 # 2025-12-21
