@@ -1,3 +1,7 @@
+# 2025-12-23
+
+- Updated Standard Snare.
+
 # 2025-12-22
 
 - Added Vibrato version of Harp and Folk Harp.
