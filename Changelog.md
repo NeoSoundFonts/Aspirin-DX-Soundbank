@@ -1,3 +1,11 @@
+# 2025-12-24
+
+- Updated Snares:
+  - Standard Snare (Big Rusty Drums)
+  - Snare Edge (Big Rusty Drums)
+  - Room Snare 1 (Virtuosity Drums)
+  - Room Snare 2 (Virtuosity Drums)
+
 # 2025-12-23
 
 - Updated Standard Snare.
