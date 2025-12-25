@@ -1,3 +1,10 @@
+# 2025-12-25
+
+- Updated Pulse Saw Wave, using FluidR3 GM Saw Wave and SP's recreation for reference.
+- Added Pulse Lead.
+- Replaced Mellow Lead with Triangle Lead (Imported from Yingchun Soul's Basic Analog Waves HD, but trimmed and abridged).
+- Patch Tweaks.
+
 # 2025-12-24
 
 - Updated Snares:
