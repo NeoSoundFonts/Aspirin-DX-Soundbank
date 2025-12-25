@@ -3,6 +3,7 @@
 - Updated Pulse Saw Wave, using FluidR3 GM Saw Wave and SP's recreation for reference.
 - Added Pulse Lead.
 - Replaced Mellow Lead with Triangle Lead (Imported from Yingchun Soul's Basic Analog Waves HD, but trimmed and abridged).
+- Added Classic Fantasia (The Fantasia layer was sampled by using Yingchun Soul's Surge Recreation and edited).
 - Patch Tweaks.
 
 # 2025-12-24
