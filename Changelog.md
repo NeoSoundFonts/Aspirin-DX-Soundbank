@@ -2,6 +2,7 @@
 
 - Replaced FreePats FM Brass with original Stereo Version.
 - Resampled Brass Section, now in stereo samples.
+- Updated Crystal EP.
 - Patch Tweaks.
 
 # 2025-12-25
