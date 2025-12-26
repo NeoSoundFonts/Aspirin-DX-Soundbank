@@ -1,9 +1,16 @@
+# 2025-12-26
+
+- Replaced FreePats FM Brass with original Stereo Version.
+- Resampled Brass Section, now in stereo samples.
+- Patch Tweaks.
+
 # 2025-12-25
 
 - Updated Pulse Saw Wave, using FluidR3 GM Saw Wave and SP's recreation for reference.
 - Added Pulse Lead.
 - Replaced Mellow Lead with Triangle Lead (Imported from Yingchun Soul's Basic Analog Waves HD, but trimmed and abridged).
 - Added Classic Fantasia (The Fantasia layer was sampled by using Yingchun Soul's Surge Recreation and edited).
+- Updated Standard Snare.
 - Patch Tweaks.
 
 # 2025-12-24
