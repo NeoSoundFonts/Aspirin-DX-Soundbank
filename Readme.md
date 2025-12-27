@@ -1,4 +1,4 @@
-A fork of Aspirin 160 GM GS Bank, but enhanced and increased quality.
+A fork of Aspirin 160 GM GS Bank, but expanded, enhanced, and increased quality.
 
 Split into two versions: **Normal** (Fair Use), and **Fairytale Edition** ("Libre" Variation; Licensed under Creative Commons 0 1.0).
 

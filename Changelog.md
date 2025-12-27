@@ -2,6 +2,7 @@
 
 - Added AKWF Organ Wave.
 - Added AKWF W-EP Wave.
+- Updated Sine Bass.
 
 # 2025-12-26
 
