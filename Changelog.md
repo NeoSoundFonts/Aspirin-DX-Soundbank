@@ -1,3 +1,8 @@
+# 2025-12-27
+
+- Added AKWF Organ Wave.
+- Added AKWF W-EP Wave.
+
 # 2025-12-26
 
 - Replaced FreePats FM Brass with original Stereo Version.
