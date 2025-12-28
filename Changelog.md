@@ -1,10 +1,14 @@
 # 2025-12-28
 
 - Added Synth Brass from Oldschool Disco Station.
-- Updated Synth Brass 3, Ober Brass, and Stack Synth Brass.
+- Updated Synth Brass 2, Synth Brass 3, Ober Brass, and Stack Synth Brass.
 - Added Orchestral Synth.
 - Added Noisy Synth Strings.
 - Added Pop Synth from Oldschool Disco Station.
+- Updated Brightness Pad.
+- Added Brass Star.
+- Added Low Bird Pad.
+- Updated Minor Aahs.
 - Patch Tweaks.
 
 # 2025-12-27
