@@ -1,3 +1,7 @@
+# 2025-12-29
+
+- Replaced Clear Bells with Ethereal Bells.
+
 # 2025-12-28
 
 - Added Synth Brass from Oldschool Disco Station.
