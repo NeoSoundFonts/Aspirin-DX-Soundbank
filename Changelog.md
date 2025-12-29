@@ -1,6 +1,9 @@
 # 2025-12-29
 
 - Replaced Clear Bells with Ethereal Bells.
+- Added Pop Kit.
+- Added Synthetic Kit.
+- Added Jungle Kit.
 
 # 2025-12-28
 
