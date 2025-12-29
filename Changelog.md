@@ -4,6 +4,8 @@
 - Added Pop Kit.
 - Added Synthetic Kit.
 - Added Jungle Kit.
+- Added Another Slap Bass, recorded by SP.
+- Moved LA Slap Bass to 001:037.
 
 # 2025-12-28
 
