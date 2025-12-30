@@ -1,3 +1,9 @@
+# 2025-12-30
+
+- Added FM Rubber Bass.
+- Renamed Detuned Slap Bass to Slap Bass Mix.
+- Patch Tweaks.
+
 # 2025-12-29
 
 - Replaced Clear Bells with Ethereal Bells.
