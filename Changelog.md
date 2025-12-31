@@ -2,6 +2,9 @@
 
 - Added FM Rubber Bass.
 - Renamed Detuned Slap Bass to Slap Bass Mix.
+- Added Accordion 2.
+- Trimmed Steel Guitar Sustain samples.
+- Changed Guitar Attack to SP's version.
 - Patch Tweaks.
 
 # 2025-12-29
