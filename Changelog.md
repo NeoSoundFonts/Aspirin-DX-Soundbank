@@ -1,3 +1,9 @@
+# 2025-12-31
+
+- Added another house bass from SIDF.
+- Updated Distortion Lead.
+- Patch Tweaks.
+
 # 2025-12-30
 
 - Added FM Rubber Bass.

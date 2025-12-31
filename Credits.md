@@ -15,11 +15,13 @@
 - [Anthousai Bottle Blow](https://freesound.org/people/Anthousai/sounds/447748/), recorded by using Tascam DR-40
 - [Mrforfs Fretless Bass](https://freesound.org/people/mrforfs/packs/23201/), recorded directly without FX
 - [spt3125 Gayageum](https://freesound.org/people/spt3125/packs/1534/), recorded with a stereo pair of Oktava mk012 mics overhead, XY-ish
-- Various recordings from S.P.
+- Various recordings from Simone Piervergili
 - [Witch's Strat](https://musical-artifacts.com/artifacts/4695)
-- S.P. Resamples/Resynthesis
+- Simone Piervergili Resamples/Resynthesis
 - Steel Drum by J.L. (Licensed under: The Unlicense)
+- [SIDF](https://musical-artifacts.com/artifacts/1716)
 - Some Yingchun Soul Resampled from other synthesizers and exported from LMMS (e.g. Dexed, Surge, ZynAddSubFX)
+- Yingchun Soul resampled Percussive Organ, using setBfree
 
 **Sound Effects:**
 
