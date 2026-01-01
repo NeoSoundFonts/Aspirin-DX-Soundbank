@@ -1,3 +1,11 @@
+# 2026-01-01
+
+- Updated Brightness Pad.
+- Updated Big & Low.
+- Updated Silky Pad.
+- Added Water Pad.
+- Added Old Synth Piano (DASS-style patch).
+
 # 2025-12-31
 
 - Added another house bass from SIDF.
