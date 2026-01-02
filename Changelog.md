@@ -1,3 +1,10 @@
+# 2026-01-02
+
+- Added Clav Synth.
+- Added Lately Bass.
+- Added Old FM EP (Using OPNPlug, without any DSP Effects, just like Old Keyboards).
+- Patch Tweaks.
+
 # 2026-01-01
 
 - Updated Brightness Pad.
