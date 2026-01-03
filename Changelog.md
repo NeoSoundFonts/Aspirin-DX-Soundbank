@@ -1,3 +1,8 @@
+# 2026-01-03
+
+- Updated Pretty Bells.
+- Updated Vibraphone Bells.
+
 # 2026-01-02
 
 - Added Clav Synth.
