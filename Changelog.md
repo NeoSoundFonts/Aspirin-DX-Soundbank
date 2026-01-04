@@ -1,3 +1,7 @@
+# 2026-01-04
+
+- Changed Christmas Bells to IdOSounds' version.
+
 # 2026-01-03
 
 - Updated Pretty Bells.
