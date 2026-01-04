@@ -1,6 +1,10 @@
 # 2026-01-04
 
 - Changed Christmas Bells to IdOSounds' version.
+- Replaced JN Synth Strings with IdO Strings.
+- Added another Piano Pad.
+- Updated Soft Crystal.
+- Added other Soft Pad.
 
 # 2026-01-03
 
