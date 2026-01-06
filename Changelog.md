@@ -1,3 +1,14 @@
+# 2026-01-06
+
+- Resampled F#5 note of Kingston Piano Recreation.
+
+# 2026-01-05
+
+- Updated Hybrid Strings.
+- Updated Stack Synth Strings.
+- Replaced JN Octave Strings with IdO Octave Strings.
+- Changed JN Synth Brass to Poly Synth Brass, renamed original Poly Synth Brass to 2.
+
 # 2026-01-04
 
 - Changed Christmas Bells to IdOSounds' version.
@@ -5,6 +16,7 @@
 - Added another Piano Pad.
 - Updated Soft Crystal.
 - Added other Soft Pad.
+- Patch Tweaks.
 
 # 2026-01-03
 
