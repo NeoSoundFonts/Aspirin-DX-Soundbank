@@ -1,6 +1,11 @@
 # 2026-01-06
 
 - Resampled F#5 note of Kingston Piano Recreation.
+- Updated Disco Pluck.
+- Updated Dance Lead.
+- Updated Soft Synth Brass.
+- Replaced Vibraphone Bells with Midnight Bells.
+- Patch Tweaks.
 
 # 2026-01-05
 
@@ -8,6 +13,7 @@
 - Updated Stack Synth Strings.
 - Replaced JN Octave Strings with IdO Octave Strings.
 - Changed JN Synth Brass to Poly Synth Brass, renamed original Poly Synth Brass to 2.
+- Added 80's Pop Strings.
 
 # 2026-01-04
 
