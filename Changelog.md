@@ -1,3 +1,7 @@
+# 2026-01-07
+
+- Adjusted volume for Car Crash.
+
 # 2026-01-06
 
 - Resampled F#5 note of Kingston Piano Recreation.
