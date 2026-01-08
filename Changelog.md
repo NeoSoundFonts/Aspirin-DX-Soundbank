@@ -1,3 +1,7 @@
+# 2026-01-08
+
+- Added FM Picked Bass.
+
 # 2026-01-07
 
 - Adjusted volume for Car Crash.
