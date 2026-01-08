@@ -1,6 +1,8 @@
 # 2026-01-08
 
 - Added FM Picked Bass.
+- Added FM Fingered Bass.
+- Moved FM Bass to 011:039 (Wire String Bass in 8850 Map).
 
 # 2026-01-07
 
