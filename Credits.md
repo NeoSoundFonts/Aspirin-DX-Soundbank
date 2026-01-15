@@ -21,6 +21,7 @@
 - Steel Drum by J.L. (Licensed under: The Unlicense)
 - [SIDF](https://musical-artifacts.com/artifacts/1716)
 - [IdOSounds](https://github.com/simonepiervergili-ctrl/IdOSounds)
+- [Synth Bamboo Flute](https://musical-artifacts.com/artifacts/7500) by Vini
 - Some Yingchun Soul Resampled from other synthesizers and exported from LMMS (e.g. Dexed, Surge, ZynAddSubFX)
 - Yingchun Soul resampled Percussive Organ, using setBfree
 

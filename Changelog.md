@@ -1,3 +1,11 @@
+# 2026-01-15
+
+- Added Power Stack and Octave Stack.
+- Added some VA-76 patches using reference of Tyroland.
+- Updated Beixiao Sample.
+- Added Acid Helicopter.
+- Patch Tweaks.
+
 # 2026-01-08
 
 - Added FM Picked Bass.
