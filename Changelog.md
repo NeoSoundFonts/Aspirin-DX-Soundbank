@@ -4,6 +4,7 @@
 - Added some VA-76 patches using reference of Tyroland.
 - Updated Beixiao Sample.
 - Added Acid Helicopter.
+- Added some KG-like patches.
 - Patch Tweaks.
 
 # 2026-01-08
