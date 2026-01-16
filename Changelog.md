@@ -1,6 +1,8 @@
 # 2026-01-16
 
 - Resampled Middle Part of Brass Section, re-adjusted EQ.
+- Added 50's Sci-Fi.
+- Added Polar Pad.
 
 # 2026-01-15
 
