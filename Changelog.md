@@ -2,6 +2,17 @@
 
 - Added Full Organ 1 and 2.
 - Added LA Rock Organ.
+- Added Digital Church Organ.
+- Updated Synth Mallet, made using OpulenZ.
+- Added Horn + Orchestra.
+- Changed Dance Organ to Yingchun Soul's first version.
+- Lowered volume for Brass Section.
+- Added Goblin Synth.
+- Added Echo Bell.
+- Updated Alto Sax Exp.
+- Added Applause Waves.
+- Added Lo-Fi Synth Strings.
+- Updated Power Guitar.
 
 # 2026-01-16
 
