@@ -1,3 +1,8 @@
+# 2026-01-17
+
+- Added Full Organ 1 and 2.
+- Added LA Rock Organ.
+
 # 2026-01-16
 
 - Resampled Middle Part of Brass Section, re-adjusted EQ.
