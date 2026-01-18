@@ -1,3 +1,13 @@
+# 2026-01-18
+
+- Added some more 8850 patches.
+- Added one note for VSCO-2 CE Marimba.
+- Added Impact Hit.
+- Added 6th Hit.
+- Added Lo-Fi Rave Hit.
+- Added Bass Hit.
+- Added Euro Hit.
+
 # 2026-01-17
 
 - Added Full Organ 1 and 2.
