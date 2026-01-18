@@ -7,6 +7,8 @@
 - Added Lo-Fi Rave Hit.
 - Added Bass Hit.
 - Added Euro Hit.
+- Added Retro Guitar.
+- Added Retro Strings.
 
 # 2026-01-17
 
