@@ -1,3 +1,9 @@
+# 2026-01-20
+
+- Added Retro Trumpet.
+- Added Tubular Bell Pad.
+- Added Choir Stab.
+
 # 2026-01-18
 
 - Added some more 8850 patches.
