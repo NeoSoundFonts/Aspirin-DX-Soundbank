@@ -1,3 +1,21 @@
+# 2026-01-22
+
+- Changed Mod LFO Freq and Vib LFO Freq for most instruments.
+- Added one note for Saw Wave.
+- Updated Galaxy Way.
+- Added Strings+Flute.
+- Updated Nostalgic Pad.
+- Added Stacked Saw Brass.
+- Replaced Silky Pad with Fairy's Song recreation.
+- Replaced Silky Pad 2 with Silky Way recreation.
+- Removed the redundant Dream Pad, for future uses.
+- Added West Coast.
+
+# 2026-01-21
+
+- Added Pad Voices.
+- Added two Disco Basses.
+
 # 2026-01-20
 
 - Added Retro Trumpet.
