@@ -7,6 +7,9 @@
 - Added 5th Analog Clav and 5th Lead.
 - Added E-MU Styled Choir Pad (Bank2 Prg91).
 - Added Dual Guitars.
+- Updated Soft Synth Brass to be a JUNO-D6 style Cream Brass.
+- Updated Pan Flute samples.
+- Updated Shakuhachi Waves.
 
 # 2026-01-22
 
