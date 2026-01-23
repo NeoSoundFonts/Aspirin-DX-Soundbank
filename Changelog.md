@@ -10,6 +10,8 @@
 - Updated Soft Synth Brass to be a JUNO-D6 style Cream Brass.
 - Updated Pan Flute samples.
 - Updated Shakuhachi Waves.
+- Updated LA Retour.
+- Patch Tweaks.
 
 # 2026-01-22
 
