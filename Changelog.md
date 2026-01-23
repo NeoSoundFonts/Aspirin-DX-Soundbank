@@ -1,3 +1,13 @@
+# 2026-01-23
+
+- Updated Hybrid Brass.
+- Changed Poly Synth Brass 2 to IdOSounds Synth Brass.
+- Updated Space Voice samples.
+- Changed Pulse Lead, added Pulse Lead 2.
+- Added 5th Analog Clav and 5th Lead.
+- Added E-MU Styled Choir Pad (Bank2 Prg91).
+- Added Dual Guitars.
+
 # 2026-01-22
 
 - Changed Mod LFO Freq and Vib LFO Freq for most instruments.
@@ -10,6 +20,8 @@
 - Replaced Silky Pad 2 with Silky Way recreation.
 - Removed the redundant Dream Pad, for future uses.
 - Added West Coast.
+- Added Sweet Analog Voice.
+- Replaced Heavy Synth with Rock Lead.
 
 # 2026-01-21
 
