@@ -1,3 +1,20 @@
+# 2026-01-26
+
+- Added Rock Piano.
+- Updated Celesta to Stereo Samples.
+- Added Muted Distortion Guitar.
+- Updated Fat and Perky.
+- Added Delayed Lead.
+- Added Ravers Lead.
+- Tweaked Polysynth 2.
+
+# 2026-01-24
+
+- Updated Brass samples.
+- Added Viola Waves (Sustain Resynthesized with AKWF).
+- Moved Violin Waves position.
+- Changed Slow Violin to single cycle version.
+
 # 2026-01-23
 
 - Updated Hybrid Brass.
