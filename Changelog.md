@@ -7,6 +7,10 @@
 - Added Delayed Lead.
 - Added Ravers Lead.
 - Tweaked Polysynth 2.
+- Added Giant Sweep.
+- Added 80's Emotional EP.
+- Added Atmosphere Bells.
+- Added Triangle Bells.
 
 # 2026-01-24
 
