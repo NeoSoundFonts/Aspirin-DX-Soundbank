@@ -1,5 +1,10 @@
 # 2026-01-26
 
+- Added Harmonic Pad.
+- Added Stardust Pad.
+
+# 2026-01-25
+
 - Added Rock Piano.
 - Updated Celesta to Stereo Samples.
 - Added Muted Distortion Guitar.
