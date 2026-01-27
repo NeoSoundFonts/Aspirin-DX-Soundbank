@@ -23,7 +23,7 @@
 - [IdOSounds](https://github.com/simonepiervergili-ctrl/IdOSounds)
 - [Synth Bamboo Flute](https://musical-artifacts.com/artifacts/7500) by Vini
 - Some Yingchun Soul Resampled from other synthesizers and exported from LMMS (e.g. Dexed, Surge, ZynAddSubFX)
-- Yingchun Soul resampled Percussive Organ, using setBfree
+- Yingchun Soul resampled Percussive Organ, as well as other organs, using setBfree
 
 **Sound Effects:**
 

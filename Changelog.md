@@ -7,6 +7,7 @@
 - Balanced Volume for Power Guitar.
 - Added Noise Peaker.
 - Tweaked LA Retour.
+- Added High Technology Pad.
 - Patch Tweaks.
 
 # 2026-01-26
