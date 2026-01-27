@@ -1,7 +1,21 @@
+# 2026-01-27
+
+- Added two notes for Xylophone.
+- Added Shockwaves.
+- Updated Solo Sine Lead.
+- Updated Polysynth Pad.
+- Balanced Volume for Power Guitar.
+- Added Noise Peaker.
+- Tweaked LA Retour.
+- Patch Tweaks.
+
 # 2026-01-26
 
 - Added Harmonic Pad.
 - Added Stardust Pad.
+- Replaced Deep Sea Pad with New Atmosphere Pad.
+- Added Astral Voice.
+- Patch Tweaks.
 
 # 2026-01-25
 
