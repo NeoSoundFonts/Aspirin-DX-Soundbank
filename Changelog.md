@@ -1,3 +1,7 @@
+# 2026-01-28
+
+- Added Retro Koto.
+
 # 2026-01-27
 
 - Added two notes for Xylophone.
