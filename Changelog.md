@@ -1,3 +1,16 @@
+# 2026-02-01
+
+- Moved Witch's Strat Mute to Bank2 Prg28, and added Karoryfer Staccato Green Guitar samples to Bank0 Prg28.
+
+# 2026-01-31
+
+- Added Sweet Clarinet.
+- Added Synth Lahs.
+
+# 2026-01-29
+
+- Patch Tweaks.
+
 # 2026-01-28
 
 - Added Retro Koto.
