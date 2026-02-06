@@ -1,6 +1,9 @@
 # 2026-02-01
 
 - Moved Witch's Strat Mute to Bank2 Prg28, and added Karoryfer Staccato Green Guitar samples to Bank0 Prg28.
+- Added Funky Electric Guitar.
+- Added Spectral Bell.
+- Brighter Power Kicks (uses Standard Kick layers for assist.)
 
 # 2026-01-31
 
