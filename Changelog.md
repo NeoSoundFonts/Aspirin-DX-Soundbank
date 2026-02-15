@@ -1,3 +1,21 @@
+# 2026-02-15
+
+- Added Khim (Samples from pattingthestar, CC0, therefore it's Libre Source).
+
+# 2026-02-11
+
+- Tweaked Piccolo's Sustain Level.
+
+# 2026-02-10
+
+- Added Erhu, using Aliexpress Erhu from SFZInstruments as attack, and AKWF Wavetables for sustain.
+
+# 2026-02-08
+
+- Added 80's Synth Vox by Vini.
+- Moved Click Voice position to Bank2 Prg54.
+- Updated DiscordGM Shehnai Samples.
+
 # 2026-02-01
 
 - Moved Witch's Strat Mute to Bank2 Prg28, and added Karoryfer Staccato Green Guitar samples to Bank0 Prg28.
