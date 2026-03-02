@@ -1,3 +1,8 @@
+# 2026-02-22
+
+- Added Synth Zither.
+- Patch Tweaks.
+
 # 2026-02-19
 
 - Added Bansuri.
