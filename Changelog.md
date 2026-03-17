@@ -1,3 +1,7 @@
+# 2026-03-17
+
+- Replaced Splash Cymbal with Swirly Drums Version.
+
 # 2026-02-22
 
 - Added Synth Zither.
