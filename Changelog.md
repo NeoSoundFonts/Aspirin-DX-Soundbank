@@ -1,6 +1,11 @@
+# 2026-03-20
+
+- Replaced VCSL Bright Piano to SP Bright Piano.
+
 # 2026-03-18
 
 - Replaced Iowa Tuba with Karoryfer War Tuba.
+- Added some 8850 Patches.
 
 # 2026-03-17
 
