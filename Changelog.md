@@ -1,6 +1,7 @@
 # 2026-03-20
 
 - Replaced VCSL Bright Piano to SP Bright Piano.
+- Added Dreamy Sweep.
 
 # 2026-03-18
 
