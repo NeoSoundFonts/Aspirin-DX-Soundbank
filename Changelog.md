@@ -1,6 +1,10 @@
+# 2026-03-22
+
+- Changed one note to chorus-less version for Bright Piano.
+
 # 2026-03-20
 
-- Replaced VCSL Bright Piano to SP Bright Piano.
+- Replaced VCSL Bright Piano with SP Bright Piano.
 - Added Dreamy Sweep.
 
 # 2026-03-18
