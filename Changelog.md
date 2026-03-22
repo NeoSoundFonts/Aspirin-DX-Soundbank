@@ -1,6 +1,6 @@
 # 2026-03-22
 
-- Changed one note to chorus-less version for Bright Piano.
+- Changed note G5 to chorus-less version for Bright Piano.
 
 # 2026-03-20
 
