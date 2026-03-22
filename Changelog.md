@@ -1,3 +1,8 @@
+# 2026-03-23
+
+- Added 7th Bell Pad.
+- Added Universe.
+
 # 2026-03-22
 
 - Changed note G5 to chorus-less version for Bright Piano.
