@@ -2,6 +2,7 @@
 
 - Added 7th Bell Pad.
 - Added Universe.
+- Added Electric Organ (Bank32 Prg16).
 
 # 2026-03-22
 
