@@ -1,3 +1,8 @@
+# 2026-03-24
+
+- Fixed Synth Lahs position (Bank16 Prg53).
+- Updated Room Snare 1 Layer (Virtuosity Drums).
+
 # 2026-03-23
 
 - Added 7th Bell Pad.
