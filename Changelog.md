@@ -1,3 +1,8 @@
+# 2026-03-31
+
+- Replaced Tenor Trombone with Old Trombone (Same source - VSCO-2: Community Edition).
+- Updated VSCO-2 CE Trumpet samples.
+
 # 2026-03-24
 
 - Fixed Synth Lahs position (Bank16 Prg53).
