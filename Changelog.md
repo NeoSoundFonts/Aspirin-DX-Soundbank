@@ -1,3 +1,7 @@
+# 2026-04-01
+
+- Added FM Synth Layer for Gayageum.
+
 # 2026-03-31
 
 - Replaced Tenor Trombone with Old Trombone (Same source - VSCO-2: Community Edition).
