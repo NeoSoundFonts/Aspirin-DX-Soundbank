@@ -1,3 +1,10 @@
+# 2026-04-02
+
+- Updated note B3 for SP Bright Piano.
+- Re-selected notes for Alto Sax (Karoryfer Were Sax) to close original mapping of Aspirin 160.
+- Added Dynamic FM EP.
+- Replaced Stereo FM EP with Dynamic Crystal EP.
+
 # 2026-04-01
 
 - Added FM Synth Layer for Gayageum.
