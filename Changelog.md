@@ -1,3 +1,7 @@
+# 2026-04-20
+
+- Replaced note E6 with C6 for VCSL Harmonica.
+
 # 2026-04-02
 
 - Updated note B3 for SP Bright Piano.
