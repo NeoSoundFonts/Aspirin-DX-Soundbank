@@ -1,6 +1,6 @@
 # 2026-04-20
 
-- Replaced note E6 with C6 for VCSL Harmonica.
+- Replaced note E6 with C6, and added note G6 for VCSL Harmonica.
 
 # 2026-04-02
 
