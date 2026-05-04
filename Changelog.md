@@ -1,3 +1,14 @@
+# 2026-05-04
+
+- Lowered Chorus Rate for Celesta.
+- Added G5 Note to VSCO-2 CE Marimba.
+- Added Spacial Patches from SC-55.
+- Tweaked Romatic Trumpet.
+- Added some 88Pro and 8850 patches.
+- Renamed Retro Koto to Koto Waves and moved to 008:107 (Taishogoto Slot).
+- Renamed Traditional Dreams to China Dreams, and moved to 016:107 (Kanoun Slot), and tweaked it.
+- Renamed Retro Patches to Patch Waves.
+
 # 2026-04-20
 
 - Replaced note E6 with C6, and added note G6 for VCSL Harmonica.
