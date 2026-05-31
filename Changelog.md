@@ -1,3 +1,7 @@
+# 2026-05-20
+
+- Lowered volume for Xylophone.
+
 # 2026-05-04
 
 - Lowered Chorus Rate for Celesta.
