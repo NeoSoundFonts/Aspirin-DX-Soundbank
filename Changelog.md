@@ -1,3 +1,14 @@
+# 2026-06-14
+
+- Changed VCSL Harmonica to `Harmonica-Hohner-Special20-C` version.
+- Updated Harmonica 2.
+
+# 2026-06-05
+
+- Patch Tweaks.
+- Added SP Pop Piano.
+- Added some 8850 patches.
+
 # 2026-05-20
 
 - Lowered volume for Xylophone.
