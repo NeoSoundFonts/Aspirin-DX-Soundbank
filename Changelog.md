@@ -1,7 +1,25 @@
+# 2026-06-17
+
+- Updated FM EP to Less Chorus DSP FX.
+
+# 2026-06-16
+
+- Moved Dream Bell to Bank10 Prg98.
+- Improved Fantasia by replacing Pan Flute Attack with a Spectrum layer.
+- Added Octave Ido Synth Brass.
+- Added two Disco Piano Pads.
+- Renamed Dream 2 to Dream Disco 2.
+- Patch Tweaks.
+
+# 2026-06-15
+
+- Updated Brass Section.
+
 # 2026-06-14
 
 - Changed VCSL Harmonica to `Harmonica-Hohner-Special20-C` version.
 - Updated Harmonica 2.
+- Removed Pretty Bells (Now belongs to Extra Patches).
 
 # 2026-06-05
 
