@@ -1,6 +1,8 @@
 # 2026-06-17
 
-- Updated FM EP to Less Chorus DSP FX.
+- Resampled FM EP, now have less Chorus DSP FX.
+- Added one sample for Electric Steel Guitar, made by using AKWF wavetables.
+- Shorted Decay time for Star Theme.
 
 # 2026-06-16
 
