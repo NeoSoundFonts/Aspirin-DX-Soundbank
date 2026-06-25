@@ -1,3 +1,12 @@
+# 2026-06-24
+
+- Added Surge Electric Piano, made by Yingchun Soul, using Vini's `bell_tine` for attack.
+- Added Detuned Surge Electric Piano.
+- Moved Crystal EP to Bank1 Prg5.
+- Moved Detuned Crystal EP to Bank9 Prg5.
+- Moved FM EP to Bank0 Prg5.
+- Moved Detuned FM EP to Bank8 Prg5.
+
 # 2026-06-17
 
 - Resampled FM EP, now have less Chorus DSP FX.

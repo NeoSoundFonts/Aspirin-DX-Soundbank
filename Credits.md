@@ -6,7 +6,7 @@
 - [FreePats](https://freepats.zenvoid.org/) (Selecting Creative Commons 0 1.0 licensed samples)
 - PattingTheStar
 - [Karoryfer](https://karoryfer-samples.myshopify.com/pages/free-samples)
-- Stamperadam Celesta
+- [Celesta](https://freesound.org/people/stamperadam/packs/6166/) by Stamperadam
 - Classic Station
 - New Wave Station
 - [Discord SFZ GM Bank](https://github.com/sfzinstruments/Discord-SFZ-GM-Bank) (Selecting Creative Commons 0 1.0 licensed samples)
@@ -21,6 +21,8 @@
 - [SIDF](https://musical-artifacts.com/artifacts/1716)
 - [IdOSounds](https://github.com/simonepiervergili-ctrl/IdOSounds)
 - [Synth Bamboo Flute](https://musical-artifacts.com/artifacts/7500) by Vini
+- [Vini's Sample Attack Transients](https://musical-artifacts.com/artifacts/7979)
+- [80's Synth Voice](https://musical-artifacts.com/artifacts/8001) by Vini
 - Some Yingchun Soul Resampled from other synthesizers and exported from LMMS (e.g. Dexed, Surge, ZynAddSubFX)
 - Yingchun Soul resampled Percussive Organ, as well as other organs, using setBfree
 
