@@ -1,3 +1,7 @@
+# 2026-07-06
+
+- Changed attenuation of spectrum layer for Fantasia.
+
 # 2026-06-24
 
 - Added Surge Electric Piano, made by Yingchun Soul, using Vini's `bell_tine` for attack.
