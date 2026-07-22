@@ -1,3 +1,7 @@
+# 2026-07-21
+
+- Amplified Snare Edge sample.
+
 # 2026-07-07
 
 - Updated Toms.
