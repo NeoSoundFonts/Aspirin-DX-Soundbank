@@ -1,3 +1,7 @@
+# 2026-07-24
+
+- Tweaked Erhu Sustain Parameters.
+
 # 2026-07-21
 
 - Amplified Snare Edge sample.
