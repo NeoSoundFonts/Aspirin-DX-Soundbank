@@ -2,6 +2,7 @@
 
 - Changed Whistle Waves.
 - Tweaked Steel Guitar Sustain.
+- Equalized Classical Guitar.
 
 # 2026-07-24
 
