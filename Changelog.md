@@ -1,6 +1,7 @@
 # 2026-07-25
 
 - Changed Whistle Waves.
+- Tweaked Steel Guitar Sustain.
 
 # 2026-07-24
 
