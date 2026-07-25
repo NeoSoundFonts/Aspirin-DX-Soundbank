@@ -1,3 +1,7 @@
+# 2026-07-25
+
+- Changed Whistle Waves.
+
 # 2026-07-24
 
 - Tweaked Erhu Sustain Parameters.

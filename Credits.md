@@ -73,5 +73,6 @@ Sounds came from freesound, unless stated
 - Yingchun Soul
 - [AKWF Free Wavetables](https://www.adventurekid.se/akrt/waveforms/adventure-kid-waveforms/)
 - FreePats (Single Cycle Conversion)
+- [Whistle by Simone Piervergili](https://musical-artifacts.com/artifacts/8921) (Single Cycle Wavetable Conversion by Yingchun Soul)
 
 Unless stated, everything are licensed under Creative Commons 0 1.0.
