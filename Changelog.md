@@ -4,6 +4,7 @@
 - Tweaked Steel Guitar Sustain.
 - Equalized Classical Guitar.
 - Changed Dan Tranh to f version and retuned by Yingchun Soul (except C#5 note).
+- Reprocessed Slap Bass samples (Ibanez Soundgear, Bass Mania Standard) and swapped them.
 - Patch Tweaks.
 
 # 2026-07-24
