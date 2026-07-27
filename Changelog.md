@@ -6,6 +6,7 @@
 - Updated Super Saw samples.
 - Swapped Dance Lead and Super Saw.
 - Replaced Octave Stack with Bright Pop Pad (From Yamaha® PSR-SX700).
+- Replaced Monster Power with Chillin Chords.
 - Removed a redundant EP Pad and moved Emotional EP to original position (Bank9 Prg96).
 
 # 2026-07-25
