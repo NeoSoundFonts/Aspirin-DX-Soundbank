@@ -2,6 +2,11 @@
 
 - Added some 8850 patches.
 - Updated Orchestral Hit.
+- Updated Shining Stars, based on Next Generation from Yamaha® PSR-SX700.
+- Updated Super Saw samples.
+- Swapped Dance Lead and Super Saw.
+- Replaced Octave Stack with Bright Pop Pad (From Yamaha® PSR-SX700).
+- Removed a redundant EP Pad and moved Emotional EP to original position (Bank9 Prg96).
 
 # 2026-07-25
 
