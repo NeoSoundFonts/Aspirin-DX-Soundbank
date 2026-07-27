@@ -1,3 +1,8 @@
+# 2026-07-27
+
+- Added some 8850 patches.
+- Updated Orchestral Hit.
+
 # 2026-07-25
 
 - Changed Whistle Waves.
@@ -5,6 +10,7 @@
 - Equalized Classical Guitar.
 - Changed Dan Tranh to f version and retuned by Yingchun Soul (except C#5 note).
 - Reprocessed Slap Bass samples (Ibanez Soundgear, Bass Mania Standard) and swapped them.
+- Made Slap Bass attack samples shorter.
 - Patch Tweaks.
 
 # 2026-07-24
