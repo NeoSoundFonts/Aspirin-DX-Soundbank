@@ -1,3 +1,21 @@
+# 2026-07-29
+
+- Added some 8850 patches.
+- Shortened Lore sample.
+- Updated Warm Atmosphere, based on Nylon Heaven from Yamaha® PSR-SX700.
+- Removed Fairy Chimes, replaced by Dream Bell (Move from Bank10 Prg98 to Bank5 Prg98).
+- Added Music Bells, recreated by using X'mas bells from IdOSounds.
+- Updated Ancestral Pad, based on Disclosure from legacy patch of Yamaha® PSR-SX700.
+- Added detune layers to 5th Atmosphere Pad.
+- Added Noble Man.
+- Moved Disco Piano Pad to Bank11 Prg96.
+- Updated Xylophone Looped layer for Ice Rain, now stereo samples.
+- Updated Goblin Synth, based on Sound Pictures from Yamaha® PSR-SX700.
+
+# 2026-07-28
+
+- Removed detuned samples on Ravers Lead.
+
 # 2026-07-27
 
 - Added some 8850 patches.
@@ -8,6 +26,7 @@
 - Replaced Octave Stack with Bright Pop Pad (From Yamaha® PSR-SX700).
 - Replaced Monster Power with Chillin Chords.
 - Removed a redundant EP Pad and moved Emotional EP to original position (Bank9 Prg96).
+- Trimmed two Harmonica samples.
 
 # 2026-07-25
 
