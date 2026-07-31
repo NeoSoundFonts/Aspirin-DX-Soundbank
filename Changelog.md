@@ -1,3 +1,10 @@
+# 2026-07-31
+
+- Removed String Waves.
+- Moved Guitar Waves to Bank 40.
+- Moved Trumpet Waves to Bank 32.
+- Changed attenuation of Star Theme.
+
 # 2026-07-30
 
 - Updated New Atmosphere, Using Yingchun Soul's recreation for references.
