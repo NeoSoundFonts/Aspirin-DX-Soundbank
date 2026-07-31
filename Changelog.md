@@ -1,3 +1,7 @@
+# 2026-07-30
+
+- Updated New Atmosphere, Using Yingchun Soul's recreation for references.
+
 # 2026-07-29
 
 - Added some 8850 patches.
@@ -11,6 +15,7 @@
 - Moved Disco Piano Pad to Bank11 Prg96.
 - Updated Xylophone Looped layer for Ice Rain, now stereo samples.
 - Updated Goblin Synth, based on Sound Pictures from Yamaha® PSR-SX700.
+- Added Alien Invasion.
 
 # 2026-07-28
 
