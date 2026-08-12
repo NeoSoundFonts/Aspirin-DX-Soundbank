@@ -1,3 +1,13 @@
+# 2026-08-12
+
+- Changed Shakuhachi to Simone Piergervili's Version.
+
+# 2026-08-09
+
+- Renamed Synth Lahs to Anime Lahs.
+- Renamed Sweet Analog Voice to Anime Aahs.
+- Added Chorus Oohs.
+
 # 2026-07-31
 
 - Removed String Waves.
