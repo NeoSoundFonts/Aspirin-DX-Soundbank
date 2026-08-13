@@ -1,3 +1,7 @@
+# 2026-08-13
+
+- Fixed tunings in Shakuhachi.
+
 # 2026-08-12
 
 - Changed Shakuhachi to Simone Piergervili's Version.
