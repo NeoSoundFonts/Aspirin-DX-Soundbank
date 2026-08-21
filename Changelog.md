@@ -1,6 +1,12 @@
+# 2026-08-21
+
+- Updated Sawtooth Lead to use Yingchun Soul's 88pro recreation.
+- Updated Jump Brass.
+
 # 2026-08-13
 
 - Fixed tunings in Shakuhachi.
+- Resampled Shakuhachi by adding filters and Equalizer, and the note E6 was edited by using Audacity with Envelope Tool.
 
 # 2026-08-12
 
