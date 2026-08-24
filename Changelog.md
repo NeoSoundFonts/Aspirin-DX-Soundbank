@@ -2,6 +2,9 @@
 
 - Updated Sawtooth Lead to use Yingchun Soul's 88pro recreation.
 - Updated Jump Brass.
+- Removed Piano Waves.
+- Removed Clavi Waves.
+- Removed Guitar Waves.
 
 # 2026-08-13
 
