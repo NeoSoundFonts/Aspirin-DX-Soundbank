@@ -1,3 +1,9 @@
+# 2026-08-29
+
+- Added Overdrive Guitar Plus.
+- Replaced resynthesized Soprano Sax with VCSL Saxello.
+- Removed Witch Strat Mute.
+
 # 2026-08-21
 
 - Updated Sawtooth Lead to use Yingchun Soul's 88pro recreation.
