@@ -28,7 +28,8 @@
 
 **Sound Effects:**
 
-- Guitar Fret Noise - SpeedY
+From Freesound:
+
 - [Seashore - crooner](https://www.ear0.com/sound/show/soundid-16283)
 - Bird Tweet - Titi2
 - Telephone - MrOptimism
@@ -37,21 +38,13 @@
 - Gunshots - Areniporgen
 - Scream - DigitalDominic
 - Electric Guitar Cut Noises - Joao Janz
-- Flute Key Click - Sylvia Leaf (Not in freesound)
-- Wind Chimes - [VSCO-2: Community Edition](https://versilian-studios.com/vsco-community/)
-- Thunder - LukaCafuka
 - Wind Forest - TeaDrinker
 - Rain - zavoronok
 - River - MarcMatthewsMusic
 - Dog Bark - kwahmah_02
 - Horse Gallop - AlecCorday
-- White Noise - Yingchun Soul (Not in freesound)
-- Chain Grind Loop - Miscellania Raw (in VSCO-2: Community Edition)
-- Bubbles - Miscellania Raw (in VSCO-2: Community Edition)
-- Bird Single - Yingchun Soul (Not in freesound)
 - Boom! - Layered with FelixBlume's Dynamite and Unfa's Fireworks
 - Heart Beat - biffa
-- Airplane Waves - Yingchun Soul (Not in freesound)
 - Lasergun - jgrzinich
 - Door Open - N-RAZM
 - Door Close - foxfire
@@ -62,11 +55,22 @@
 - Car Start - Giddster
 - Car Pass - Martian
 - Car Crash - Pauliusi
-- Traditional Phone - Yingchun Soul (Not in freesound)
-- Siren Warning - Yingchun Soul (Not in freesound)
 - Train Ambience - alexanderche
 
-Sounds came from freesound, unless stated
+From others:
+
+- Guitar Fret Noise - Simone Piervergili
+- Thunder - Simone Piervergili
+- Footstep - Simone Piervergili
+- Flute Key Click - Sylvia Leaf
+- Traditional Phone - Yingchun Soul
+- Siren Warning - Yingchun Soul
+- White Noise - Yingchun Soul
+- Wind Chimes - [VSCO-2: Community Edition](https://versilian-studios.com/vsco-community/)
+- Chain Grind Loop - Miscellania Raw (in VSCO-2: Community Edition)
+- Bubbles - Miscellania Raw (in VSCO-2: Community Edition)
+- Bird Single - Yingchun Soul
+- Airplane Waves - Yingchun Soul
 
 **Wavetable used:**
 

@@ -2,6 +2,7 @@
 
 - Removed one Kick from Big Rusty Drums.
 - Moved Big Rusty Drums Kick 1 to Kick Drum 2 Layer, and one of the Kick Drum 1 Layer has been replaced by Pearl Roadshow Kick (Sampled by Simone Piervergili, EQ'd by Yingchun Soul).
+- Replaced Guitar Fret Noise, Footstep, and Thunder sound effects with Simone Piervergili's version.
 
 # 2026-08-29
 
