@@ -1,3 +1,8 @@
+# 2026-09-06
+
+- Removed one Kick from Big Rusty Drums.
+- Moved Big Rusty Drums Kick 1 to Kick Drum 2 Layer, and one of the Kick Drum 1 Layer has been replaced by Pearl Roadshow Kick (Sampled by Simone Piervergili, EQ'd by Yingchun Soul).
+
 # 2026-08-29
 
 - Added Overdrive Guitar Plus.
